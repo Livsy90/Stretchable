@@ -18,7 +18,7 @@ public extension View {
     }
 }
 
-extension View {
+private extension View {
     @available(iOS 17.0, *)
     func stretchableView(
         axis: Axis,
