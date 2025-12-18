@@ -19,6 +19,29 @@ The API is designed to be minimal, expressive, and consistent across iOS version
 
 ---
 
+In Xcode:
+
+Open your project
+
+Go to File → Add Packages…
+
+Enter the package URL:
+```
+https://github.com/Livsy90/Stretchable.git
+```
+
+Add the package to your target
+
+Once added, import the module where needed:
+
+```
+import Stretchable
+```
+
+The `stretchable(axis:uniform:)` modifier will then be available on all View types.
+
+---
+
 ## Demo
 
 Typical use cases:
