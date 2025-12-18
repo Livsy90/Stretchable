@@ -2,7 +2,7 @@
 
 <img src="https://github.com/Livsy90/Stretchable/blob/main/demo.gif">
 
-A lightweight SwiftUI helper that adds a **stretch / overscroll scaling effect** to any view inside a `ScrollView`, similar to the native iOS 17 `visualEffect` behavior — with a **safe backport to iOS 16**.
+A SwiftUI helper that adds stretch / overscroll scaling effects to views inside a ScrollView, using modern APIs on iOS 17+ and a backported implementation for iOS 13+, all exposed through a single, consistent API.
 
 The API is designed to be minimal, expressive, and consistent across iOS versions.
 
