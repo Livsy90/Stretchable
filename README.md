@@ -1,6 +1,6 @@
 # Stretchable
 
-<img src="https://github.com/Livsy90/Stretchable/blob/main/demo.gif">
+<img src="https://github.com/Livsy90/Stretchable/blob/main/demo.gif" height="450">
 
 A SwiftUI helper that adds stretch / overscroll scaling effects to views inside a ScrollView, using modern APIs on iOS 17+ and a backported implementation for iOS 13+, all exposed through a single, consistent API.
 
